@@ -1,0 +1,2 @@
+# BOTGC
+Auto Create Aws
